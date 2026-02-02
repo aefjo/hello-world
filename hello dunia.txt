@@ -3,3 +3,7 @@ hello dunia 2
 hello dunia 3
 
 hello dunia 4
+hello dunia fitur 1
+hello dunia fitur 1 part 2
+hello dunia fitur 1 part 3
+hello dunia fitur 1 part 4
